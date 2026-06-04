@@ -1,4 +1,4 @@
-# 📁 File Organizer Script
+#  File Organizer Script
 
 > A Python automation script that sorts a messy folder into clean subfolders — automatically.
 
@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 What Does It Do?
+##  What Does It Do?
 
 You know that Downloads folder that has 300 random files — photos, PDFs, ZIPs, videos — all dumped in one place?
 
@@ -29,7 +29,7 @@ This script fixes that. You run it, point it at any folder, and it **automatical
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Python 3** — core language
 - `os` module — for reading folders and file paths
@@ -38,7 +38,7 @@ This script fixes that. You run it, point it at any folder, and it **automatical
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 **Step 1:** Make sure Python 3 is installed  
 ```
@@ -66,7 +66,7 @@ That's it. Watch it sort everything automatically!
 
 ---
 
-## 💡 Example Output
+##  Example Output
 
 ```
 =======================================================
@@ -91,7 +91,7 @@ That's it. Watch it sort everything automatically!
 
 ---
 
-## 📂 Supported File Types
+##  Supported File Types
 
 | Folder        | Extensions |
 |---------------|-----------|
@@ -108,7 +108,7 @@ That's it. Watch it sort everything automatically!
 
 ---
 
-## 🧠 What I Learned Building This
+##  What I Learned Building This
 
 - How to use `os.listdir()` to read a folder's contents
 - How to use `os.path.splitext()` to get a file's extension
@@ -119,7 +119,7 @@ That's it. Watch it sort everything automatically!
 
 ---
 
-## 🔮 Possible Future Improvements
+##  Possible Future Improvements
 
 - [ ] Add a GUI using Tkinter so users can browse for folders visually
 - [ ] Add an "undo" feature to reverse the organization
@@ -129,10 +129,10 @@ That's it. Watch it sort everything automatically!
 
 ---
 
-## 📄 License
+##  License
 
 This project is open source and free to use.
 
 ---
 
-*Built with Python 🐍 during summer vacation — first real project!*
+
